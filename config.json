@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpercarse",
+        "uuid": 3221900,
+        "checksum": "fp41vt"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
